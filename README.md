@@ -31,3 +31,9 @@ providing you the right means, you should get them
 
 You should be willing to learn several languages, but still stick to one in
 order to allow everyone to understand
+
+#### This is a place for sharing
+
+This means we don't have any reason to hide anything produced for this group by
+its members.  If we will collect some software, it will be free software. This
+applies to icons, guides, videos, and all deliverables.
