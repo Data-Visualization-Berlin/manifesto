@@ -10,6 +10,13 @@ Back your visions with tools, competency, debate, experience and friendship
 Those two rarely come together, but if you can afford the price of sharing your
 idea, many heads can make it real!
 
+#### Innovate
+
+Yes, innovate. Sometimes it's just too hard to do that in companies or
+universities, they already have their schemas and they cannot afford to fail.
+It's also difficult to do that alone, since too many different skills are
+needed. So here we are.
+
 ### Principles
 
 #### Hands on
